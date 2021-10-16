@@ -22,7 +22,7 @@ while True:
     print ('6 - Salir')
     opcion = int (input('Ingrese uns opción: '))
     if opcion == 1:
-        pass
+        print("Probando los commits")
     elif opcion == 2:
         pass
     elif opcion == 3:
