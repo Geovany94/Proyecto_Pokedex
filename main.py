@@ -70,7 +70,7 @@ while True:
             continue
 
 
-    elif opcion == 5:
+    elif opcion == 3:
         os.system ("cls")
         print ('1 - Número en la Pokédex:')
         print ('2 - Nombre del Pokémon:')
@@ -82,11 +82,10 @@ while True:
 
         if op == 4:
             print('Probando commit de nuevo')
-        else:
-            continue
+
 
     elif opcion == 4:
-        pass
+     pass
 
     elif opcion == 5:
         break
